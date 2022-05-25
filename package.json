@@ -4,7 +4,7 @@
   "description": "BOOKSTORE - Trabalho em conjunto de PTAC e PTAS Trabalho de Jorge Leandro e Lucas Godoy",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
